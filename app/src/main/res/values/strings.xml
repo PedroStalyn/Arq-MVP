@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploMVP</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_loans">Transferir</string>
+    <string name="title_profile">Créditos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
